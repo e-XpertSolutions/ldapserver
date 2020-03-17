@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	ldap "github.com/e-XpertSolutions/ldapserver/v1"
+	ldap "github.com/e-XpertSolutions/ldapserver"
 )
 
 // localhostCert is a PEM-encoded TLS cert with SAN DNS names
