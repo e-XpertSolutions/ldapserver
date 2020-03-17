@@ -2,5 +2,3 @@ github.com/e-XpertSolutions/ldapserver v1.0.0 h1:rnstr1LFKmOG+2teOV2Maexf/i/uWT8
 github.com/e-XpertSolutions/ldapserver v1.0.0/go.mod h1:GRtO8fVK8SjVIlJ5n331wejWL4fx1fAU8jT0DXXaavo=
 github.com/lor00x/goldap v0.0.0-20180618054307-a546dffdd1a3 h1:wIONC+HMNRqmWBjuMxhatuSzHaljStc4gjDeKycxy0A=
 github.com/lor00x/goldap v0.0.0-20180618054307-a546dffdd1a3/go.mod h1:37YR9jabpiIxsb8X9VCIx8qFOjTDIIrIHHODa8C4gz0=
-github.com/vjeantet/ldapserver v0.0.0-20170919170217-479fece7c5f1 h1:VWE8ZC9ER1YIfx0V0QgZGdG4UB/nGeaSmKxesfVuheo=
-github.com/vjeantet/ldapserver v0.0.0-20170919170217-479fece7c5f1/go.mod h1:+KHPMCVmFBVXK3UAUom0AgP/IeOXH5C3ieEwA+JU3WE=
