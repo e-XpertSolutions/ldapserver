@@ -1,4 +1,4 @@
-module github/e-XpertSolutions/ldapserver/v1
+module github/e-XpertSolutions/ldapserver
 
 go 1.14
 
